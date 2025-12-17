@@ -55,8 +55,6 @@ L’architecture repose sur :
    
   ![](imgs/img1.png)
   
-  <img src="imgs/img1.png" alt="Screenshot" border="2">
-
   ![](imgs/img2.png)
 
 2. Informations du profil utilisateur
@@ -83,6 +81,7 @@ L’architecture repose sur :
 Cette application démontre l’intégration complète d’un système d’authentification centralisé avec Keycloak et la mise en œuvre d’un contrôle d’accès robuste entre le frontend et le backend.
 
 ---
+
 
 
 
