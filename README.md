@@ -54,7 +54,7 @@ L’architecture repose sur :
 1. Connexion réussie via Keycloak
    
   ![](imgs/img1.png)
-  <img src="imgs/img.png" alt="Screenshot" style="border: 1px solid #000000; padding: 5px;">
+  <img src="imgs/img1.png" alt="Screenshot" style="border: 1px solid #000000; padding: 5px;">
 
   ![](imgs/img2.png)
 
@@ -82,4 +82,5 @@ L’architecture repose sur :
 Cette application démontre l’intégration complète d’un système d’authentification centralisé avec Keycloak et la mise en œuvre d’un contrôle d’accès robuste entre le frontend et le backend.
 
 ---
+
 
