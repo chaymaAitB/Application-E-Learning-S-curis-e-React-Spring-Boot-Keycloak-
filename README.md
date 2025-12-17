@@ -69,7 +69,6 @@ L’architecture repose sur :
    
 5. Accès autorisé (ADMIN) aux endpoints protégés
    ![](imgs/img4.png)
-   ![](imgs/img5.png)
    ![](imgs/img6.png)
    ![](imgs/img7.png)
    ![](imgs/img8.png)
@@ -81,6 +80,7 @@ L’architecture repose sur :
 Cette application démontre l’intégration complète d’un système d’authentification centralisé avec Keycloak et la mise en œuvre d’un contrôle d’accès robuste entre le frontend et le backend.
 
 ---
+
 
 
 
